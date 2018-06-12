@@ -58,3 +58,11 @@ print.bat (prints your current settings)
 adb shell wm size
 adb shell wm density
 pause
+
+
+
+https://www.wikihow.com/Change-the-Screen-Resolution-on-Your-Android
+
+
+
+
